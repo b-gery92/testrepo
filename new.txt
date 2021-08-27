@@ -1,2 +1,6 @@
 bob 
 bobo
+
+adat
+
+bármi
